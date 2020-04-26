@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/LetzDo/static/css/main.793f6cdf.chunk.css",
+    "main.js": "/LetzDo/static/js/main.b94596b0.chunk.js",
+    "main.js.map": "/LetzDo/static/js/main.b94596b0.chunk.js.map",
+    "runtime-main.js": "/LetzDo/static/js/runtime-main.24cb46ab.js",
+    "runtime-main.js.map": "/LetzDo/static/js/runtime-main.24cb46ab.js.map",
+    "static/css/2.93b3b32d.chunk.css": "/LetzDo/static/css/2.93b3b32d.chunk.css",
+    "static/js/2.aa017102.chunk.js": "/LetzDo/static/js/2.aa017102.chunk.js",
+    "static/js/2.aa017102.chunk.js.map": "/LetzDo/static/js/2.aa017102.chunk.js.map",
+    "index.html": "/LetzDo/index.html",
+    "precache-manifest.feb2087c22f17a249c4f25e263a2d853.js": "/LetzDo/precache-manifest.feb2087c22f17a249c4f25e263a2d853.js",
+    "service-worker.js": "/LetzDo/service-worker.js",
+    "static/css/2.93b3b32d.chunk.css.map": "/LetzDo/static/css/2.93b3b32d.chunk.css.map",
+    "static/css/main.793f6cdf.chunk.css.map": "/LetzDo/static/css/main.793f6cdf.chunk.css.map",
+    "static/js/2.aa017102.chunk.js.LICENSE.txt": "/LetzDo/static/js/2.aa017102.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24cb46ab.js",
+    "static/css/2.93b3b32d.chunk.css",
+    "static/js/2.aa017102.chunk.js",
+    "static/css/main.793f6cdf.chunk.css",
+    "static/js/main.b94596b0.chunk.js"
+  ]
+}
