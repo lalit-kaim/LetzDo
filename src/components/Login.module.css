@@ -1,0 +1,32 @@
+.loginanchor{
+    cursor: pointer;
+}
+
+.loginanchor:hover, .term:hover, .forgotPassword:hover{
+    text-decoration: underline;
+}
+.letzdo{
+    color: #009688;
+}
+@media only screen and (max-width:500px){
+    .welcome{
+        font-size: 35px;
+    }
+    .kaimletzdo{
+        font-size: 40px;
+    }
+    img{
+        width: 200px;
+    }
+}
+@media only screen and (max-width:330px){
+    .welcome{
+        font-size: 30px;
+    }
+    .kaimletzdo{
+        font-size: 35px;
+    }
+    img{
+        width: 170px;
+    }
+}
